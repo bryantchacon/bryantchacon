@@ -1,5 +1,5 @@
 ### Hi 👋
 
-My name is Bryant Chacón, self-taught Technical Artist, gamer and science & technology enthusiast.
+My name is Bryant Chacón a self-taught Technical Artist.
 
 [My website.](https://www.bryantchacon.com/)
