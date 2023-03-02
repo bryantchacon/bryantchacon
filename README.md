@@ -16,4 +16,4 @@ I love learning new things in this field to improve my skills and focus on Shade
 
 [Instagram 📷](https://www.instagram.com/bryantchacon_/)
 
-[Linktree 🌲](https://linktr.ee/bryantchacon)
+[YouTube ▶](https://www.youtube.com/@bryantchacon_)
