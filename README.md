@@ -1,5 +1,5 @@
 ### Hi 👋
 
-I'm a Full Stack Developer with solid knowledge of the JavaScript ecosystem. My technical expertise spans front-end development with HTML, CSS, and React JS powered by Vite.js and styled with Tailwind CSS. On the back end, I work with Express.js on Node.js, implementing PostgreSQL databases and authentication using Passport.js and JWT. I manage my projects using version control with Git and GitHub.
+I'm a self-taught Full Stack Developer with a strong foundation in the JavaScript ecosystem. I build responsive user interfaces using HTML, CSS, and React JS with Vite.js, styled with Tailwind CSS for modern and clean designs. On the server side, I use Node.js with Express.js to create scalable APIs, leveraging Docker for containerization to ensure consistent development and deployment environments, integrate PostgreSQL databases, and implement secure authentication with Passport.js and JWT. I also work with Git and GitHub to keep my code organized and versioned.
 
-Passionate about creating complete and functional web solutions, combining attractive user interfaces with robust back-end architectures. Always looking for new challenges that allow me to continue growing as a developer and add value through modern and efficient web applications.
+Passionate about learning new technologies and applying best practices to build efficient and well-structured web applications. I enjoy turning ideas into functional, user-friendly digital experiences and am constantly exploring ways to improve and grow as a developer.
