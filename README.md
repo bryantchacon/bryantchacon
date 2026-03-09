@@ -1,4 +1,4 @@
-### Hi 👋
+Software Engineer | Backend & Infrastructure Focus
 
 My approach as a developer goes beyond making code "work"—I focus on building secure, scalable, and professional-grade architectures. I specialize in the logic that powers modern applications, prioritizing data integrity and server-side efficiency.
 
