@@ -1,5 +1,15 @@
 ### Hi 👋
 
-I'm a self-taught Software Engineer currently expanding my expertise in the JavaScript ecosystem to create responsive user interfaces using HTML, CSS, and React JS with Vite.js, styled with Tailwind CSS for modern and clean designs. On the server side, Node.js with Express.js to create scalable APIs, leveraging Docker for containerization to ensure consistent development and deployment environments, integrate PostgreSQL databases, and implement secure authentication with Passport.js and JWT. I also work with Git and GitHub to keep my code organized and versioned.
+My approach as a developer goes beyond making code "work"—I focus on building secure, scalable, and professional-grade architectures. I specialize in the logic that powers modern applications, prioritizing data integrity and server-side efficiency.
 
-Passionate about new technologies and applying best practices to build efficient and well-structured web applications turning ideas into functional, user-friendly digital experiences and constantly exploring ways to improve and grow as a developer while working toward creating my first complete applications.
+What I bring to a technical team:
+
+* API Architecture: Designing and developing robust services using Node.js and Express, optimized for high performance.
+
+* Security & Authentication: Implementing complex identity flows using Passport.js and JSON Web Tokens (JWT) to ensure bulletproof user environments.
+
+* Data Management: Modeling and managing relational databases with PostgreSQL, ensuring consistency and scalability of information.
+
+* DevOps & Containers: Standardizing development and deployment environments through Docker, eliminating the "it works on my machine" bottleneck and accelerating delivery cycles.
+
+I am a firm believer in best practices and meticulous version control with Git/GitHub. My goal is to transform complex ideas into functional infrastructures that allow businesses to scale without technical friction.
